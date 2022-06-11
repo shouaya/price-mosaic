@@ -1,11 +1,11 @@
 {
-    "name": "cheney/price-mosaic",
+    "name": "shouaya/price-mosaic",
     "description": "mosaic price",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "cheney",
+            "name": "shouaya",
             "email": "favaserver@gmail.com"
         }
     ],
