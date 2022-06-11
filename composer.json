@@ -1,0 +1,21 @@
+{
+    "name": "cheney/price-mosaic",
+    "description": "mosaic price",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cheney",
+            "email": "favaserver@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PriceMosaic\\Mosaic\\": "src/PriceMosaic/Mosaic",
+            "PriceMosaic\\ImageApi\\": "src/PriceMosaic/ImageApi"
+        }
+    }
+}
