@@ -9,7 +9,6 @@
             "email": "favaserver@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0"
     },
@@ -18,5 +17,7 @@
             "PriceMosaic\\Mosaic\\": "src/PriceMosaic/Mosaic",
             "PriceMosaic\\ImageApi\\": "src/PriceMosaic/ImageApi"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
